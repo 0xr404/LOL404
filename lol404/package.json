@@ -32,7 +32,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/0xr404/LOL404.git"
+    "url": "git+https://github.com/0xr404/LOL404.git"
   },
   "keywords": [
     "lol404"

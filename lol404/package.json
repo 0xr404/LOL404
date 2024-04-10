@@ -1,5 +1,5 @@
 {
-  "name": "lol404",
+  "name": "@0xr404/lol404",
   "version": "1.1.4",
   "scripts": {
     "dev": "next dev",

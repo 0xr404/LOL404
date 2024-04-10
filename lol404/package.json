@@ -11,6 +11,7 @@
     "@okxweb3/coin-base": "^1.0.6",
     "@okxweb3/coin-ethereum": "^1.0.2",
     "@okxweb3/crypto-lib": "^1.0.1",
+    "lol404": "^1.1.4",
     "next": "14.1.4",
     "react": "^18",
     "react-dom": "^18"
